@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Forty</title>
+    <link>http://juuudy.github.io/blogs/</link>
+    <description>Recent content in Blogs on Forty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 11:58:27 +0800</lastBuildDate><atom:link href="http://juuudy.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post6</title>
+      <link>http://juuudy.github.io/blogs/post6/</link>
+      <pubDate>Sat, 15 Oct 2022 11:58:27 +0800</pubDate>
+      
+      <guid>http://juuudy.github.io/blogs/post6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post5</title>
+      <link>http://juuudy.github.io/blogs/post5/</link>
+      <pubDate>Sat, 15 Oct 2022 11:58:21 +0800</pubDate>
+      
+      <guid>http://juuudy.github.io/blogs/post5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post4</title>
+      <link>http://juuudy.github.io/blogs/post4/</link>
+      <pubDate>Sat, 15 Oct 2022 11:58:10 +0800</pubDate>
+      
+      <guid>http://juuudy.github.io/blogs/post4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post3</title>
+      <link>http://juuudy.github.io/blogs/post3/</link>
+      <pubDate>Sat, 15 Oct 2022 11:58:02 +0800</pubDate>
+      
+      <guid>http://juuudy.github.io/blogs/post3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>http://juuudy.github.io/blogs/post2/</link>
+      <pubDate>Sat, 15 Oct 2022 11:53:17 +0800</pubDate>
+      
+      <guid>http://juuudy.github.io/blogs/post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://juuudy.github.io/blogs/first-post/</link>
+      <pubDate>Fri, 14 Oct 2022 16:37:28 +0800</pubDate>
+      
+      <guid>http://juuudy.github.io/blogs/first-post/</guid>
+      <description>Markdown syntax guide Headers This is a Heading h1 This is a Heading h2 This is a Heading h6 Emphasis This text will be italic
+This will also be italic
+This text will be bold
+This will also be bold
+You can combine them
+Lists Unordered Item 1 Item 2 Item 2a Item 2b Ordered Item 1 Item 2 Item 3 Item 3a Item 3b Images Links You may be using Markdown Live Preview.</description>
+    </item>
+    
+  </channel>
+</rss>
