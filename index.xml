@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forty</title>
+    <title>Zhang Qianrun</title>
     <link>http://juuudy.github.io/</link>
-    <description>Recent content on Forty</description>
+    <description>Recent content on Zhang Qianrun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Oct 2022 11:58:27 +0800</lastBuildDate><atom:link href="http://juuudy.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -53,17 +53,12 @@
     </item>
     
     <item>
-      <title>First Post</title>
+      <title>Research Experience</title>
       <link>http://juuudy.github.io/blogs/first-post/</link>
       <pubDate>Fri, 14 Oct 2022 16:37:28 +0800</pubDate>
       
       <guid>http://juuudy.github.io/blogs/first-post/</guid>
-      <description>Markdown syntax guide Headers This is a Heading h1 This is a Heading h2 This is a Heading h6 Emphasis This text will be italic
-This will also be italic
-This text will be bold
-This will also be bold
-You can combine them
-Lists Unordered Item 1 Item 2 Item 2a Item 2b Ordered Item 1 Item 2 Item 3 Item 3a Item 3b Images Links You may be using Markdown Live Preview.</description>
+      <description>Overview Brief Introduction Social media has provided multiple ways for individuals and organizations to connect and communicate with each other. Social media platforms such as WeChat, Weibo, and webcasting platforms are widely used in the public&amp;rsquo;s daily life and dominate the media. These media are often simple to use, have low barriers to use, and are updated quickly, allowing for timely publication and quicker feedback. In this context, Professor Wang of the City University of Hong Kong sponsored this academic research project.</description>
     </item>
     
   </channel>
